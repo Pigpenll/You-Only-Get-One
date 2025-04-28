@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Prototype/Opening.unity
     guid: 4274cd9260941164e8c14fad893bf2ff
   - enabled: 1
-    path: Assets/Prototype/Prototype.unity
+    path: Assets/Prototype/Game.unity
     guid: 3c35a616954208741bf437c335f474ac
   - enabled: 1
     path: Assets/Prototype/personEnding.unity
