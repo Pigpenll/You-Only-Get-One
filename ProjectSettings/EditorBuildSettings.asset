@@ -9,9 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/BenPeters/Prototype/Opening.unity
+    path: Assets/Prototype/Opening.unity
     guid: 4274cd9260941164e8c14fad893bf2ff
   - enabled: 1
-    path: Assets/Scenes/BenPeters/Prototype/Prototype.unity
+    path: Assets/Prototype/Prototype.unity
     guid: 3c35a616954208741bf437c335f474ac
+  - enabled: 1
+    path: Assets/Prototype/personEnding.unity
+    guid: 3f3bd41c8ac64a942ae22ef23220f8ed
+  - enabled: 1
+    path: Assets/Prototype/plantEnding.unity
+    guid: b3ff7503934415842a8942dc7cbd5bc6
   m_configObjects: {}
